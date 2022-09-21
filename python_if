@@ -1,0 +1,6 @@
+n = int(input("Enter the nubmer: ")
+if (n%2 == 0) and (n>0):
+	print("Nubmer is correct")
+else:
+	print(" u entered fock bulshit")
+print(str(n) + "ivailable")
